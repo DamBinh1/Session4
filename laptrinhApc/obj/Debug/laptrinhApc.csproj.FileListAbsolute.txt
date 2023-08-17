@@ -1,0 +1,8 @@
+D:\fap\laptrinhApc\laptrinhApc\bin\Debug\laptrinhApc.exe.config
+D:\fap\laptrinhApc\laptrinhApc\bin\Debug\laptrinhApc.exe
+D:\fap\laptrinhApc\laptrinhApc\bin\Debug\laptrinhApc.pdb
+D:\fap\laptrinhApc\laptrinhApc\obj\Debug\laptrinhApc.csproj.AssemblyReference.cache
+D:\fap\laptrinhApc\laptrinhApc\obj\Debug\laptrinhApc.csproj.SuggestedBindingRedirects.cache
+D:\fap\laptrinhApc\laptrinhApc\obj\Debug\laptrinhApc.csproj.CoreCompileInputs.cache
+D:\fap\laptrinhApc\laptrinhApc\obj\Debug\laptrinhApc.exe
+D:\fap\laptrinhApc\laptrinhApc\obj\Debug\laptrinhApc.pdb
